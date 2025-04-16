@@ -1,0 +1,7 @@
+langchain-community
+python-dotenv
+huggingface-hub
+Pillow
+streamlit
+requests 
+langchain
